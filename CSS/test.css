@@ -1,0 +1,21 @@
+h1{
+    font-size: 30px;
+    color: blueviolet;
+}
+h2{
+    font-size: 20px;
+    color: salmon;
+}
+
+.Big{
+    font-size: 60px;
+
+}
+.uppercase{
+    text-transform: uppercase;
+}
+
+.Big.uppercase {
+    color: greenyellow;
+
+}
